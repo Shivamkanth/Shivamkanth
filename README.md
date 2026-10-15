@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-kanth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kanthshivam.sk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%2F%20Hybrid-2ea44f?style=for-the-badge" alt="Open to Remote / Hybrid"/>
 </p>
 
 ---
@@ -45,10 +44,3 @@ I'm a backend engineer with **7+ years of experience** building secure, scalable
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
